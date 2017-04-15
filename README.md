@@ -90,7 +90,6 @@ ToDo:
 
 
 * This program uplads single page PDF to google drive. Google accepts 10 page PDF files. Create 10 page pdf files, upload, split the text files for faster operations.
-* Give a web interface using Django or Flask.
 * Port to other Operating Systems like Windows.
 
 
